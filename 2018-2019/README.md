@@ -2,7 +2,7 @@
 
 This is the pioneering team of JODC *(JIIT Open-Source Developers Circle)*. JODC was born this year and has accelerated factorially to promote Open-Source culture and cultivate it among other students.
 
-The Society Head and the Coordinators are the founding members of this society.
+**The Society Head and the Coordinators, 2018-2019, are also the founding members of this society.**
 
 ---
 
