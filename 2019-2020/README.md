@@ -33,9 +33,9 @@
 | 3 | Ayush | [visit](https://github.com/eldraco19/) |
 | 4 | Ayush Dwivedi | [visit](https://github.com/AyushOneironaut) |
 | 5 | Divyansh Kamboj | [visit](https://github.com/weirdwiz) |
-| 6 | Dharmveer Singh | [visit]() |
+| 6 | Dharmveer Singh | [visit](https://github.com/moriarity9211) |
 | 7 | Eshan Dhawan | [visit](https://github.com/eshandhawan51) |
 | 8 | Nishit Anand | [visit](https://github.com/nishitanand) |
-| 9 | Prakher Prashank | [visit]() |
+| 9 | Prakher Prashank | [visit](https://github.com/im-prakher) |
 
 ---
