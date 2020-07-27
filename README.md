@@ -1,4 +1,13 @@
-# About Us
+# Team List
+
+| S.No | Session |
+| :---: | :---: |
+| 1 | [2018-2019](./2018-2019/README.md) |
+| 2 | [2019-2020](./2019-2020/README.md) |
+
+---
+
+## About Us
 
 According to GitHub’s “State of the Octoverse” report 2019, **99%** of software projects in the world use Open Source Technologies in some way or the other. Open source has undoubtably changed the world, and we, the JODC *(JIIT Open-Source Developers Circle)* aim to help students to become a part of it.
 
