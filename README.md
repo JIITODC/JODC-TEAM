@@ -17,8 +17,6 @@ The JODC is an initiative by the students of JIIT-128 to promote open source cul
 
 We conduct talks, workshops, activities, one-to-one sessions and dev-sprints to mentor students. We encourage them to volunteer for open source projects and organisations and participate in open source initiatives such as Google Summer of Code and Outreachy to become better developers and for the betterment of open source.
 
-Join us at our [Facebook group](https://www.facebook.com/groups/jiitodc/permalink/625576687984277/) and [Discord server](https://discord.gg/yETyUJb) to connect with us and get to know about all our upcoming activities.
-
 ---
 
 ## Team structure since the 2020-2021 session:
@@ -35,5 +33,11 @@ Join us at our [Facebook group](https://www.facebook.com/groups/jiitodc/permalin
    __To apply for any of the Head position, one needs to be a volunteer in their previous academic session.__ 
 
 It is an ideal system to introduce new students to responsibilities and prepare them to carry on the legacy. The form for every positions will be released yearly and will be informed accordingly.
+
+---
+
+## Join Us
+
+Join us at our [Facebook group](https://www.facebook.com/groups/jiitodc/permalink/625576687984277/) and [Telegram Group](https://t.me/jiitodc) to connect with us and get to know about all our upcoming activities.
 
 ---
