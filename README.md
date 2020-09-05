@@ -18,3 +18,20 @@ We conduct talks, workshops, activities, one-to-one sessions and dev-sprints to 
 Join us at our [Facebook group](https://www.facebook.com/groups/jiitodc/permalink/625576687984277/) and [Discord server](https://discord.gg/yETyUJb) to connect with us and get to know about all our upcoming activities.
 
 ---
+
+## Team structure since the 2020-2021 session:
+
+1) The society will run on the disciplined collaboration between volunteers and coordinators.
+2) Volunteers are the students who are into the second or first year of their engineering.
+3) Coordinators are the students who are into the 3rd year of their engineering. The promotion of students from Volunteer to the post of Coordinator will be based on their performance. A coordinator without having the experience as a volunteer will be selected only in very special cases.
+4) There will be 3 head positions:
+   * Society Head / Head Coordinator
+   * Technical Head
+   * Management Head
+  
+   Technical and Management Head will report to Society Head.
+   __To apply for any of the Head position, one needs to be a volunteer in their previous academic session.__ 
+
+It is an ideal system to introduce new students to responsibilities and prepare them to carry on the legacy. The form for every positions will be released yearly and will be informed accordingly.
+
+---
