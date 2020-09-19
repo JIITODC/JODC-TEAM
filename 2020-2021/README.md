@@ -1,6 +1,6 @@
 # JODC-TEAM (2020-2021)
 
-| Total Team Members | _To-Be-Announced_ |
+| Total Team Members | 16 |
 |:--:|:--:|
 ---
 
@@ -16,8 +16,8 @@
 
 ## Coordinators
 
-| S.No. | Name | GitHub Profile |
-|:------|:-----|:--------------:|
+| S.No.  | Name | GitHub Profile |
+|:------:|:-----|:--------------:|
 | 1 | Dharmveer Singh  | [visit](https://github.com/moriarity9211) |
 | 2 | Eshan Dhawan     | [visit](https://github.com/eshandhawan51) |
 | 3 | Nishit Anand     | [visit](https://github.com/nishitanand)   |
@@ -25,11 +25,18 @@
 
 ---
 
-_To-Be-Announced_
-## Volunteers
+## Core Team Members
 
-| S.No. | Name | GitHub Profile |
-|:------|:-----|:--------------:|
-| 1 | _\<name\>_ | [visit]() |
+| S.No.  | Name | GitHub Profile |
+|:------:|:-----|:--------------:|
+| 1 | Aachman Mittal     | [visit](https://github.com/AarKiMos)            |
+| 2 | Aaryan Porwal      | [visit](https://github.com/aaryanporwal)        |
+| 3 | Aayush Kumar Sahu  | [visit](https://github.com/aayushmau5)          |
+| 4 | Akshat Agarwal     | [visit](https://github.com/humancalico)         |
+| 5 | Ishan              | [visit](https://github.com/Ishan-Saini)         |
+| 6 | Khushagra Singh    | [visit](https://github.com/perkymaster)         |
+| 7 | Rudraksh Pareek    | [visit](https://github.com/DelusionalOptimist)  |
+| 8 | Sabreen Parveen    | [visit](https://github.com/Sabreen-Parveen)     |
+| 9 | Suryashankar Das   | [visit](https://github.com/SuryashankarDas)     |
 
 ---
