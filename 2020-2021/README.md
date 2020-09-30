@@ -37,6 +37,6 @@
 | 6 | Khushagra Singh    | [visit](https://github.com/perkymaster)         |
 | 7 | Rudraksh Pareek    | [visit](https://github.com/DelusionalOptimist)  |
 | 8 | Sabreen Parveen    | [visit](https://github.com/Sabreen-Parveen)     |
-| 9 | Suryashankar Das   | [visit](https://github.com/SuryashankarDas)     |
+| 9 | Suryashankar Das   | [visit](https://github.com/iamsdas)             |
 
 ---
